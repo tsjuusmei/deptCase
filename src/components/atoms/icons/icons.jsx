@@ -23,6 +23,7 @@ const Icons = ({ type, width, height, opacity, fill, onClick, stroke }) => {
           </svg>
         </Styles.Icon>
       );
+    default:
   }
 };
 
